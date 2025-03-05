@@ -1,4 +1,4 @@
-package TablePerClass;
+package com.company.inheritancespringboot.TablePerClass;
 
 
 import jakarta.persistence.Entity;
