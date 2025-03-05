@@ -15,3 +15,5 @@ public class User {
     UUID id;
     String email;
 }
+
+//example for table per class
