@@ -6,3 +6,5 @@ import jakarta.persistence.Entity;
 public class Instructor extends User {
     String company;
 }
+
+//
